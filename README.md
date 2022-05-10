@@ -22,6 +22,16 @@ Any of the following motherboard have a guaranteed compatibility:
 - Intel Xeon E-2188G
 - Intel i9 9900K with corrected bios settings (updated firmware can fix most issues, albeit it will most the time be confidence level 4)
 
+### BIOS Settings
+- Disable Hypethreading
+- Disable Speed-Shift
+- Enable SGX
+- Disable Secure-boot
+- Disable Turbo-mode (if applicable)
+- If you have a GPU, disable internal graphics. Do not disable if you do not have an integrated GPU.
+- If applicable, switch to exclusively UEFI
+- Ensure you're on the latest microcode update
+
 ## ⚠️ Known Incompatibilities 
 
 ### Motherboards
