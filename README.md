@@ -3,7 +3,7 @@
 ## ✅ Recommendations 
 
 ### Motherboard / Racks
-Any of the following motherboard have a guaranteed compatibility:
+Any of the following motherboard have been known to mostly be compatible:
 
 - X11SCM-F by SuperMicro [Link](https://www.supermicro.com/en/products/motherboard/X11SCM-F)
 - X11SCW-F by SuperMicro [Link](https://www.supermicro.com/en/products/motherboard/X11SCW-F)
